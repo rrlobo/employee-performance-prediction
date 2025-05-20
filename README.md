@@ -30,8 +30,8 @@ The goal is to analyze HR data and build a predictive model to classify employee
 - Feature importance analysis
 
 ## 🔍 Results
-- Accuracy: 98%
-- High recall on most classes
+- Accuracy: 79%
+- High recall on some classes
 - Visuals for model performance and insights
 
 ## 🚀 How to Run
